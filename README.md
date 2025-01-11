@@ -1,6 +1,4 @@
-# About Me
-
-## Welcome to My Portfolio
+# Welcome to My Portfolio
 
 Hello there! I'm **[Sel]**, a passionate developer constantly seeking new challenges and opportunities to grow. I've built this portfolio website using **HTML, CSS**, and integrated **C#** with the help of Blazor to create dynamic and interactive elements. 
 
