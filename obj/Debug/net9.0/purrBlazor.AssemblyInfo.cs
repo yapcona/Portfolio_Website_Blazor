@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("purrBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f3edc12284eaf45232277b6801dc3972a5f1e2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517af0e027b4649cdca1e2ce3b4bc54841c70d87")]
 [assembly: System.Reflection.AssemblyProductAttribute("purrBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("purrBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
