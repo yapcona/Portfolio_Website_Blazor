@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/purrBlazor/app.6ektzjm5jg.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ektzjm5jg"},{"Name":"integrity","Value":"sha256-ftt1VmgjjtBneddyLaW81neckQWcS68WeMWqf\u002BEgKbI="},{"Name":"label","Value":"_content/purrBlazor/app.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8057"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ftt1VmgjjtBneddyLaW81neckQWcS68WeMWqf\u002BEgKbI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 07:56:00 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/purrBlazor/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ftt1VmgjjtBneddyLaW81neckQWcS68WeMWqf\u002BEgKbI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8057"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ftt1VmgjjtBneddyLaW81neckQWcS68WeMWqf\u002BEgKbI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 07:56:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ShV6hzY3OEBTJ3iMtsNe6k3a1oeoqhDunkzW37BvJdY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8055"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ShV6hzY3OEBTJ3iMtsNe6k3a1oeoqhDunkzW37BvJdY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 08:06:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/purrBlazor/app.m9nah4glo0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m9nah4glo0"},{"Name":"integrity","Value":"sha256-ShV6hzY3OEBTJ3iMtsNe6k3a1oeoqhDunkzW37BvJdY="},{"Name":"label","Value":"_content/purrBlazor/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8055"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ShV6hzY3OEBTJ3iMtsNe6k3a1oeoqhDunkzW37BvJdY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 08:06:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/purrBlazor/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>

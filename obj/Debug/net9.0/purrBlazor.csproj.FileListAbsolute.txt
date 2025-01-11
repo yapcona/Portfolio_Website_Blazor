@@ -76,4 +76,5 @@ C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net
 C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\compressed\2ipojjyhir-5ipweew5fc.gz
 C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\compressed\zgzyalkkov-ctu54vn4wk.gz
 C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\compressed\r1a8g5bmo9-ctu54vn4wk.gz
-C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\compressed\2ep7aztl02-6ektzjm5jg.gz
+C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\purrBlazor.sourcelink.json
+C:\Users\priva\Documents\1_CODE\purr_blazor\purr_blazor\purrBlazor\obj\Debug\net9.0\compressed\2ep7aztl02-m9nah4glo0.gz
