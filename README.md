@@ -17,4 +17,5 @@ I've incorporated **extensive CSS animations** to make the site visually engagin
 
 I believe in the power of collaboration and continuous learning. Feel free to connect with me.
 
+
 Thank you for stopping by, and I hope you enjoy exploring my work as much as I enjoyed creating it.
