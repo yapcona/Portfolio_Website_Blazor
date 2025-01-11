@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hello there! I'm **[Sel]**, a passionate developer constantly seeking new challenges and opportunities to grow. I've built this portfolio website using **HTML, CSS**, and integrated **C#** with the help of Blazor to create dynamic and interactive elements. 
+Hello there! I'm **Sel**, a passionate developer constantly seeking new challenges and opportunities to grow. I've built this portfolio website using **HTML, CSS**, and integrated **C#** with the help of Blazor to create dynamic and interactive elements. 
 
 ### What You'll Find Here
 
@@ -12,6 +12,15 @@ I've incorporated **extensive CSS animations** to make the site visually engagin
 1. **Smooth transitions and hover effects** on buttons and links.
 2. **Keyframe animations** to bring elements to life.
 3. **Responsive designs** ensuring a seamless experience across devices.
+
+## Contributions
+
+Feel free to contribute to this project by submitting issues, pull requests, or suggestions. Collaboration is always welcome!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt).
+
 
 ### Connect with Me
 
