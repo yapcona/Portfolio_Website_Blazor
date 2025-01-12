@@ -13,10 +13,6 @@ I've incorporated **extensive CSS animations** to make the site visually engagin
 2. **Keyframe animations** to bring elements to life.
 3. **Responsive designs** ensuring a seamless experience across devices.
 
-## Contributions
-
-Feel free to contribute to this project by submitting issues, pull requests, or suggestions. Collaboration is always welcome!
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
@@ -28,3 +24,10 @@ I believe in the power of collaboration and continuous learning. Feel free to co
 
 
 Thank you for stopping by, and I hope you enjoy exploring my work as much as I enjoyed creating it.
+
+
+
+## Credits
+YouTube:
+@lundeveloper
+@coding2go
