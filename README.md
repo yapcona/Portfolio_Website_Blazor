@@ -18,7 +18,7 @@ I've incorporated **extensive CSS animations** to make the site visually engagin
 This project is licensed under the [MIT License](LICENSE.txt).
 
 
-### Connect with Me
+## Connect with Me
 
 I believe in the power of collaboration and continuous learning. Feel free to connect with me.
 
