@@ -2,6 +2,8 @@
 
 Hello there! I'm **Sel**, a passionate developer constantly seeking new challenges and opportunities to grow. I've built this portfolio website using **HTML, CSS**, and integrated **C#** with the help of Blazor to create dynamic and interactive elements. 
 
+![demo_linkedin](https://github.com/user-attachments/assets/fb7c10c7-d546-43cc-87e2-f6e9b153c3e6)
+
 ### What You'll Find Here
 
 This website can showcase a variety of your projects, skills, and achievements.
